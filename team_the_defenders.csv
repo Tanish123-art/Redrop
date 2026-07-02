@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0018499,1,34.6139,7.2yr Senior Machine Learning Engineer at Zomato (Food Delivery). Strong in RAG and Weaviate (86mo product ML).
+CAND_0071974,2,34.3158,7.8yr Senior AI Engineer at Netflix (Media). Strong in Elasticsearch and Qdrant (92mo product ML).
+CAND_0039754,3,34.0259,16.2yr Senior Applied Scientist at Meta (Internet). Strong in OpenSearch and Qdrant (98mo product ML).
+CAND_0002025,4,33.7978,5.9yr Senior AI Engineer at Apple (Consumer Electronics). Strong in FAISS and Sentence Transformers (70mo product ML).
+CAND_0008425,5,33.6744,7.8yr Senior NLP Engineer at Ola (Transportation). Strong in Sentence Transformers and Qdrant (92mo product ML); 90-day notice period is a concern.
+CAND_0046064,6,33.0695,8.9yr Senior NLP Engineer at Salesforce (Software). Strong in Pinecone and Elasticsearch (106mo product ML).
+CAND_0079387,7,32.1940,6.9yr AI Engineer at Microsoft (Software). Strong in OpenSearch and Vector Search (81mo product ML).
+CAND_0027691,8,32.1007,6.5yr NLP Engineer at Haptik (Conversational AI). Strong in Recommendation Systems and Weaviate (76mo product ML).
+CAND_0005260,9,31.8005,5.2yr Senior NLP Engineer at Netflix (Media). Strong in Embeddings and NLP (61mo product ML); no GitHub profile linked.
+CAND_0088025,10,31.7120,8.6yr Staff Machine Learning Engineer at Yellow.ai (AI/ML). Strong in Elasticsearch and BM25 (102mo product ML); 90-day notice period is a concern.
+CAND_0094759,11,31.5154,8.6yr experience with Hugging Face Transformers expertise. Strong in Hugging Face Transformers and Fine-tuning LLMs (101mo product ML).
+CAND_0081846,12,31.4583,6.7yr experience with Embeddings expertise. Strong in Embeddings and Information Retrieval (79mo product ML).
+CAND_0010257,13,31.2411,6.5yr experience with Milvus expertise. Strong in Milvus and Recommendation Systems (77mo product ML); 120-day notice period is a concern.
+CAND_0080766,14,30.7431,8.8yr experience with Milvus expertise. Strong in Milvus and Elasticsearch (105mo product ML).
+CAND_0086022,15,30.7333,5.3yr experience with Sentence Transformers expertise. Strong in Sentence Transformers and Embeddings (63mo product ML).
+CAND_0007009,16,30.6207,7.9yr experience with OpenSearch expertise. Strong in OpenSearch and BM25 (94mo product ML).
+CAND_0030031,17,30.4954,5.7yr experience with NLP expertise. Strong in NLP and Vector Search (67mo product ML).
+CAND_0064326,18,30.4697,7.6yr experience with Milvus expertise. Strong in Milvus and Weaviate (91mo product ML).
+CAND_0044855,19,30.4493,6.6yr experience with Information Retrieval expertise. Strong in Information Retrieval and OpenSearch (78mo product ML).
+CAND_0047721,20,30.0218,7.0yr experience with Qdrant expertise. Strong in Qdrant and NLP (84mo product ML); 90-day notice period is a concern.
+CAND_0011687,21,29.2332,7.8yr experience with OpenSearch expertise. Strong in OpenSearch and Weaviate (92mo product ML).
+CAND_0046525,22,29.2057,6.1yr experience with Sentence Transformers expertise. Strong in Sentence Transformers and Information Retrieval (73mo product ML).
+CAND_0052682,23,29.0460,6.6yr experience with Semantic Search expertise. Strong in Semantic Search and FAISS (78mo product ML).
+CAND_0052328,24,28.9023,6.5yr experience with Sentence Transformers expertise. Strong in Sentence Transformers and Vector Search (77mo product ML).
+CAND_0011432,25,28.8875,7.6yr experience with OpenSearch expertise. Strong in OpenSearch and Elasticsearch (90mo product ML).
+CAND_0028793,26,28.7370,7.2yr experience with Embeddings expertise. Strong in Embeddings and Information Retrieval (85mo product ML); 120-day notice period is a concern.
+CAND_0062247,27,28.5272,7.3yr experience with Qdrant expertise. Strong in Qdrant and Hugging Face Transformers (87mo product ML).
+CAND_0042029,28,28.4813,6.5yr experience with OpenSearch expertise. Strong in OpenSearch and NLP (78mo product ML).
+CAND_0069905,29,27.9855,6.6yr experience with Weaviate expertise. Strong in Weaviate and Recommendation Systems (78mo product ML); 90-day notice period is a concern.
+CAND_0033861,30,27.8773,8.0yr experience with Vector Search expertise. Strong in Vector Search and Elasticsearch (95mo product ML).
+CAND_0077337,31,27.6822,7.0yr experience with Recommendation Systems expertise. Strong in Recommendation Systems and RAG (83mo product ML).
+CAND_0041669,32,27.6458,8.0yr experience with Semantic Search expertise. Strong in Semantic Search and Milvus (95mo product ML).
+CAND_0083307,33,27.5452,7.8yr experience with Embeddings expertise. Strong in Embeddings and Vector Search (92mo product ML); 120-day notice period is a concern.
+CAND_0070398,34,27.1955,7.2yr experience with Embeddings expertise. Strong in Embeddings and FAISS (85mo product ML); 120-day notice period is a concern.
+CAND_0005649,35,27.0296,7.4yr experience with Recommendation Systems expertise. Strong in Recommendation Systems and Weaviate (88mo product ML); 90-day notice period is a concern.
+CAND_0017960,36,26.9040,7.7yr experience with Information Retrieval expertise. Strong in Information Retrieval and Qdrant (91mo product ML).
+CAND_0079064,37,26.8628,5.2yr experience with Fine-tuning LLMs expertise. Strong in Fine-tuning LLMs and Pinecone (62mo product ML); 120-day notice period is a concern.
+CAND_0039383,38,26.7873,7.1yr experience with FAISS expertise. Strong in FAISS and Hugging Face Transformers (84mo product ML); 90-day notice period is a concern.
+CAND_0006567,39,26.7646,7.9yr experience with BM25 expertise. Strong in BM25 and Feature Engineering (94mo product ML).
+CAND_0005538,40,26.4958,5.9yr experience with Feature Engineering expertise. Strong in Feature Engineering (69mo product ML); 90-day notice period is a concern.
+CAND_0091909,41,26.4668,6.9yr experience with Hugging Face Transformers expertise. Strong in Hugging Face Transformers and Pinecone (82mo product ML).
+CAND_0060072,42,26.0870,5.7yr experience with BM25 expertise. Strong in BM25 and Pinecone (68mo product ML); 90-day notice period is a concern.
+CAND_0078002,43,26.0477,6.3yr experience with Hugging Face Transformers expertise. Strong in Hugging Face Transformers and NLP (74mo product ML).
+CAND_0095528,44,26.0266,5.3yr experience with Elasticsearch expertise. Strong in Elasticsearch and Semantic Search (63mo product ML); no GitHub profile linked.
+CAND_0091534,45,25.8543,16.6yr experience with RAG expertise. Strong in RAG and Sentence Transformers (85mo product ML).
+CAND_0040117,46,25.7309,6.5yr experience with RAG expertise. Strong in RAG and FAISS (77mo product ML); no GitHub profile linked.
+CAND_0096142,47,25.7033,5.0yr experience with BM25 expertise. Strong in BM25 and Pinecone (60mo product ML); 120-day notice period is a concern.
+CAND_0068811,48,25.2472,8.0yr experience with Pinecone expertise. Strong in Pinecone and Vector Search (95mo product ML).
+CAND_0086151,49,25.2188,7.7yr experience with Qdrant expertise. Strong in Qdrant and Elasticsearch (91mo product ML); 120-day notice period is a concern.
+CAND_0093912,50,24.9430,5.3yr experience with Vector Search expertise. Strong in Vector Search and Elasticsearch (62mo product ML).
+CAND_0098846,51,24.9114,7.6yr AI Engineer at upGrad. Strong in Qdrant and Recommendation Systems (90mo product ML).
+CAND_0077285,52,24.7575,5.5yr Recommendation Systems Engineer at Nykaa. Strong in Fine-tuning LLMs and Sentence Transformers (65mo product ML).
+CAND_0066376,53,24.7331,5.7yr Applied ML Engineer at Dream11. Strong in FAISS and Semantic Search (67mo product ML); 90-day notice period is a concern.
+CAND_0016163,54,24.6810,6.7yr Applied ML Engineer at Dream11. Strong in Embeddings and Hugging Face Transformers (79mo product ML); 120-day notice period is a concern.
+CAND_0030953,55,24.5963,7.8yr Search Engineer at Nykaa. Strong in Qdrant and Weaviate (92mo product ML).
+CAND_0011162,56,24.5498,5.8yr Recommendation Systems Engineer at upGrad. Strong in FAISS and OpenSearch (68mo product ML); 90-day notice period is a concern.
+CAND_0076251,57,24.5193,7.6yr Search Engineer at Haptik. Strong in Hugging Face Transformers and Semantic Search (91mo product ML); no GitHub profile linked.
+CAND_0020877,58,24.4732,5.1yr Applied ML Engineer at CRED. Strong in Information Retrieval and Weaviate (60mo product ML).
+CAND_0054703,59,24.3351,6.8yr Computer Vision Engineer at Razorpay. Strong in NLP and Hugging Face Transformers (80mo product ML); no GitHub profile linked.
+CAND_0050454,60,24.1921,6.8yr AI Engineer at Rephrase.ai. Strong in Fine-tuning LLMs and FAISS (81mo product ML); no GitHub profile linked.
+CAND_0041610,61,24.1427,6.7yr Recommendation Systems Engineer at Zoho. Strong in Elasticsearch and OpenSearch (79mo product ML).
+CAND_0009024,62,24.0986,5.2yr Search Engineer at Google. Strong in OpenSearch and Recommendation Systems (61mo product ML).
+CAND_0061257,63,24.0986,8.0yr Staff Machine Learning Engineer at LinkedIn. Strong in Feature Engineering (95mo product ML).
+CAND_0061265,64,24.0825,6.6yr Recommendation Systems Engineer at Zoho. Strong in Qdrant and Hugging Face Transformers (78mo product ML); 120-day notice period is a concern.
+CAND_0087630,65,24.0651,7.2yr AI Engineer at Vedantu. Strong in Hugging Face Transformers and Sentence Transformers (85mo product ML).
+CAND_0089552,66,24.0570,6.0yr Machine Learning Engineer at Netflix. Strong in Vector Search and Fine-tuning LLMs (71mo product ML); 120-day notice period is a concern.
+CAND_0070525,67,24.0493,5.4yr Senior Software Engineer (ML) at Mad Street Den. Strong in Recommendation Systems and Feature Engineering (64mo product ML).
+CAND_0081053,68,24.0485,5.4yr NLP Engineer at Glance. Strong in Semantic Search and Weaviate (64mo product ML); 90-day notice period is a concern.
+CAND_0073883,69,23.9675,5.3yr AI Specialist at Krutrim. Strong in OpenSearch and Hugging Face Transformers (62mo product ML); 90-day notice period is a concern.
+CAND_0010770,70,23.9040,15.2yr Recommendation Systems Engineer at Aganitha. Strong in Qdrant and BM25 (86mo product ML); no GitHub profile linked.
+CAND_0007412,71,23.8458,7.4yr Applied ML Engineer at Zoho. Strong in Pinecone and Recommendation Systems (87mo product ML); 120-day notice period is a concern.
+CAND_0049978,72,23.8362,6.6yr Senior Software Engineer (ML) at Sarvam AI. Strong in Embeddings and Recommendation Systems (78mo product ML).
+CAND_0075249,73,23.5042,6.2yr Applied ML Engineer at Zomato. Strong in Fine-tuning LLMs and Pinecone (74mo product ML).
+CAND_0010685,74,23.4676,6.7yr NLP Engineer at Rephrase.ai. Strong in Elasticsearch and RAG (79mo product ML); no GitHub profile linked.
+CAND_0006557,75,23.4307,7.9yr NLP Engineer at Paytm. Strong in Vector Search and FAISS (94mo product ML); 120-day notice period is a concern.
+CAND_0043228,76,23.4282,6.8yr Applied ML Engineer at Zoho. Strong in Hugging Face Transformers and Sentence Transformers (80mo product ML).
+CAND_0018549,77,23.4172,6.8yr Recommendation Systems Engineer at Uber. Strong in Milvus and Qdrant (81mo product ML).
+CAND_0065786,78,23.3930,4.9yr AI Specialist at Swiggy. Strong in Pinecone and Qdrant (58mo product ML).
+CAND_0050876,79,23.3815,6.0yr Applied ML Engineer at Freshworks. Strong in Sentence Transformers and OpenSearch (71mo product ML); 90-day notice period is a concern.
+CAND_0052195,80,23.3165,6.3yr Computer Vision Engineer at Sarvam AI. Strong in Sentence Transformers and Information Retrieval (74mo product ML).
+CAND_0003609,81,23.1562,6.1yr Senior Software Engineer (ML) at Sarvam AI. Strong in Fine-tuning LLMs and BM25 (72mo product ML).
+CAND_0065195,82,23.1350,5.1yr Search Engineer at CRED. Strong in Qdrant and Elasticsearch (61mo product ML).
+CAND_0033987,83,23.0992,6.8yr ML Engineer at Wysa. Strong in Fine-tuning LLMs and Recommendation Systems (81mo product ML); 90-day notice period is a concern.
+CAND_0064331,84,23.0698,4.2yr Senior Software Engineer (ML) at Swiggy. Strong in OpenSearch and Sentence Transformers (49mo product ML); no GitHub profile linked.
+CAND_0001930,85,23.0274,6.9yr Senior Software Engineer (ML) at Dream11. Strong in Milvus and Embeddings (81mo product ML); 120-day notice period is a concern.
+CAND_0027801,86,23.0191,7.4yr NLP Engineer at InMobi. Strong in FAISS and Milvus (87mo product ML); 120-day notice period is a concern.
+CAND_0065878,87,23.0186,7.8yr Senior Data Scientist at Niramai. Strong in Recommendation Systems and RAG (92mo product ML); no GitHub profile linked.
+CAND_0082086,88,22.9013,6.0yr Senior Software Engineer (ML) at Razorpay. Strong in FAISS and Feature Engineering (71mo product ML).
+CAND_0044222,89,22.8554,7.7yr AI Engineer at PolicyBazaar. Strong in OpenSearch and Hugging Face Transformers (92mo product ML).
+CAND_0051630,90,22.8333,6.0yr Machine Learning Engineer at Razorpay. Strong in Information Retrieval and Elasticsearch (71mo product ML); 90-day notice period is a concern.
+CAND_0009691,91,22.7751,6.2yr Applied ML Engineer at LinkedIn. Strong in Fine-tuning LLMs and Qdrant (73mo product ML); 120-day notice period is a concern.
+CAND_0000422,92,22.7368,6.3yr AI Research Engineer at Haptik. Strong in Milvus and OpenSearch (75mo product ML); 90-day notice period is a concern.
+CAND_0092255,93,22.7296,5.2yr ML Engineer at InMobi. Strong in RAG and OpenSearch (48mo product ML).
+CAND_0082489,94,22.7038,5.3yr ML Engineer at InMobi. Strong in Weaviate and Feature Engineering (63mo product ML); 90-day notice period is a concern.
+CAND_0099401,95,22.6545,7.7yr NLP Engineer at Dream11. Strong in Semantic Search and Qdrant (90mo product ML); 90-day notice period is a concern.
+CAND_0074735,96,22.6200,5.5yr Applied ML Engineer at Rephrase.ai. Strong in Vector Search and RAG (65mo product ML); 90-day notice period is a concern.
+CAND_0060835,97,22.5743,6.6yr Senior Software Engineer (ML) at Sarvam AI. Strong in Embeddings and FAISS (79mo product ML); 90-day notice period is a concern.
+CAND_0037566,98,22.5548,6.9yr Machine Learning Engineer at LinkedIn. Strong in Pinecone and Elasticsearch (82mo product ML).
+CAND_0010149,99,22.5275,6.9yr ML Engineer at Glance. Strong in Milvus and Elasticsearch (69mo product ML); 90-day notice period is a concern.
+CAND_0060054,100,22.5234,6.4yr AI Engineer at Mad Street Den. Strong in Recommendation Systems and Semantic Search (76mo product ML); no GitHub profile linked.
