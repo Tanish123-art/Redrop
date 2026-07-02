@@ -1,101 +1,101 @@
 candidate_id,rank,score,reasoning
-CAND_0018499,1,34.6139,7.2yr Senior Machine Learning Engineer at Zomato (Food Delivery). Strong in RAG and Weaviate (86mo product ML).
-CAND_0071974,2,34.3158,7.8yr Senior AI Engineer at Netflix (Media). Strong in Elasticsearch and Qdrant (92mo product ML).
-CAND_0039754,3,34.0259,16.2yr Senior Applied Scientist at Meta (Internet). Strong in OpenSearch and Qdrant (98mo product ML).
-CAND_0002025,4,33.7978,5.9yr Senior AI Engineer at Apple (Consumer Electronics). Strong in FAISS and Sentence Transformers (70mo product ML).
-CAND_0008425,5,33.6744,7.8yr Senior NLP Engineer at Ola (Transportation). Strong in Sentence Transformers and Qdrant (92mo product ML); 90-day notice period is a concern.
-CAND_0046064,6,33.0695,8.9yr Senior NLP Engineer at Salesforce (Software). Strong in Pinecone and Elasticsearch (106mo product ML).
-CAND_0079387,7,32.1940,6.9yr AI Engineer at Microsoft (Software). Strong in OpenSearch and Vector Search (81mo product ML).
-CAND_0027691,8,32.1007,6.5yr NLP Engineer at Haptik (Conversational AI). Strong in Recommendation Systems and Weaviate (76mo product ML).
-CAND_0005260,9,31.8005,5.2yr Senior NLP Engineer at Netflix (Media). Strong in Embeddings and NLP (61mo product ML); no GitHub profile linked.
-CAND_0088025,10,31.7120,8.6yr Staff Machine Learning Engineer at Yellow.ai (AI/ML). Strong in Elasticsearch and BM25 (102mo product ML); 90-day notice period is a concern.
-CAND_0094759,11,31.5154,8.6yr experience with Hugging Face Transformers expertise. Strong in Hugging Face Transformers and Fine-tuning LLMs (101mo product ML).
-CAND_0081846,12,31.4583,6.7yr experience with Embeddings expertise. Strong in Embeddings and Information Retrieval (79mo product ML).
-CAND_0010257,13,31.2411,6.5yr experience with Milvus expertise. Strong in Milvus and Recommendation Systems (77mo product ML); 120-day notice period is a concern.
-CAND_0080766,14,30.7431,8.8yr experience with Milvus expertise. Strong in Milvus and Elasticsearch (105mo product ML).
-CAND_0086022,15,30.7333,5.3yr experience with Sentence Transformers expertise. Strong in Sentence Transformers and Embeddings (63mo product ML).
-CAND_0007009,16,30.6207,7.9yr experience with OpenSearch expertise. Strong in OpenSearch and BM25 (94mo product ML).
-CAND_0030031,17,30.4954,5.7yr experience with NLP expertise. Strong in NLP and Vector Search (67mo product ML).
-CAND_0064326,18,30.4697,7.6yr experience with Milvus expertise. Strong in Milvus and Weaviate (91mo product ML).
-CAND_0044855,19,30.4493,6.6yr experience with Information Retrieval expertise. Strong in Information Retrieval and OpenSearch (78mo product ML).
-CAND_0047721,20,30.0218,7.0yr experience with Qdrant expertise. Strong in Qdrant and NLP (84mo product ML); 90-day notice period is a concern.
-CAND_0011687,21,29.2332,7.8yr experience with OpenSearch expertise. Strong in OpenSearch and Weaviate (92mo product ML).
-CAND_0046525,22,29.2057,6.1yr experience with Sentence Transformers expertise. Strong in Sentence Transformers and Information Retrieval (73mo product ML).
-CAND_0052682,23,29.0460,6.6yr experience with Semantic Search expertise. Strong in Semantic Search and FAISS (78mo product ML).
-CAND_0052328,24,28.9023,6.5yr experience with Sentence Transformers expertise. Strong in Sentence Transformers and Vector Search (77mo product ML).
-CAND_0011432,25,28.8875,7.6yr experience with OpenSearch expertise. Strong in OpenSearch and Elasticsearch (90mo product ML).
-CAND_0028793,26,28.7370,7.2yr experience with Embeddings expertise. Strong in Embeddings and Information Retrieval (85mo product ML); 120-day notice period is a concern.
-CAND_0062247,27,28.5272,7.3yr experience with Qdrant expertise. Strong in Qdrant and Hugging Face Transformers (87mo product ML).
-CAND_0042029,28,28.4813,6.5yr experience with OpenSearch expertise. Strong in OpenSearch and NLP (78mo product ML).
-CAND_0069905,29,27.9855,6.6yr experience with Weaviate expertise. Strong in Weaviate and Recommendation Systems (78mo product ML); 90-day notice period is a concern.
-CAND_0033861,30,27.8773,8.0yr experience with Vector Search expertise. Strong in Vector Search and Elasticsearch (95mo product ML).
-CAND_0077337,31,27.6822,7.0yr experience with Recommendation Systems expertise. Strong in Recommendation Systems and RAG (83mo product ML).
-CAND_0041669,32,27.6458,8.0yr experience with Semantic Search expertise. Strong in Semantic Search and Milvus (95mo product ML).
-CAND_0083307,33,27.5452,7.8yr experience with Embeddings expertise. Strong in Embeddings and Vector Search (92mo product ML); 120-day notice period is a concern.
-CAND_0070398,34,27.1955,7.2yr experience with Embeddings expertise. Strong in Embeddings and FAISS (85mo product ML); 120-day notice period is a concern.
-CAND_0005649,35,27.0296,7.4yr experience with Recommendation Systems expertise. Strong in Recommendation Systems and Weaviate (88mo product ML); 90-day notice period is a concern.
-CAND_0017960,36,26.9040,7.7yr experience with Information Retrieval expertise. Strong in Information Retrieval and Qdrant (91mo product ML).
-CAND_0079064,37,26.8628,5.2yr experience with Fine-tuning LLMs expertise. Strong in Fine-tuning LLMs and Pinecone (62mo product ML); 120-day notice period is a concern.
-CAND_0039383,38,26.7873,7.1yr experience with FAISS expertise. Strong in FAISS and Hugging Face Transformers (84mo product ML); 90-day notice period is a concern.
-CAND_0006567,39,26.7646,7.9yr experience with BM25 expertise. Strong in BM25 and Feature Engineering (94mo product ML).
-CAND_0005538,40,26.4958,5.9yr experience with Feature Engineering expertise. Strong in Feature Engineering (69mo product ML); 90-day notice period is a concern.
-CAND_0091909,41,26.4668,6.9yr experience with Hugging Face Transformers expertise. Strong in Hugging Face Transformers and Pinecone (82mo product ML).
-CAND_0060072,42,26.0870,5.7yr experience with BM25 expertise. Strong in BM25 and Pinecone (68mo product ML); 90-day notice period is a concern.
-CAND_0078002,43,26.0477,6.3yr experience with Hugging Face Transformers expertise. Strong in Hugging Face Transformers and NLP (74mo product ML).
-CAND_0095528,44,26.0266,5.3yr experience with Elasticsearch expertise. Strong in Elasticsearch and Semantic Search (63mo product ML); no GitHub profile linked.
-CAND_0091534,45,25.8543,16.6yr experience with RAG expertise. Strong in RAG and Sentence Transformers (85mo product ML).
-CAND_0040117,46,25.7309,6.5yr experience with RAG expertise. Strong in RAG and FAISS (77mo product ML); no GitHub profile linked.
-CAND_0096142,47,25.7033,5.0yr experience with BM25 expertise. Strong in BM25 and Pinecone (60mo product ML); 120-day notice period is a concern.
-CAND_0068811,48,25.2472,8.0yr experience with Pinecone expertise. Strong in Pinecone and Vector Search (95mo product ML).
-CAND_0086151,49,25.2188,7.7yr experience with Qdrant expertise. Strong in Qdrant and Elasticsearch (91mo product ML); 120-day notice period is a concern.
-CAND_0093912,50,24.9430,5.3yr experience with Vector Search expertise. Strong in Vector Search and Elasticsearch (62mo product ML).
-CAND_0098846,51,24.9114,7.6yr AI Engineer at upGrad. Strong in Qdrant and Recommendation Systems (90mo product ML).
-CAND_0077285,52,24.7575,5.5yr Recommendation Systems Engineer at Nykaa. Strong in Fine-tuning LLMs and Sentence Transformers (65mo product ML).
-CAND_0066376,53,24.7331,5.7yr Applied ML Engineer at Dream11. Strong in FAISS and Semantic Search (67mo product ML); 90-day notice period is a concern.
-CAND_0016163,54,24.6810,6.7yr Applied ML Engineer at Dream11. Strong in Embeddings and Hugging Face Transformers (79mo product ML); 120-day notice period is a concern.
-CAND_0030953,55,24.5963,7.8yr Search Engineer at Nykaa. Strong in Qdrant and Weaviate (92mo product ML).
-CAND_0011162,56,24.5498,5.8yr Recommendation Systems Engineer at upGrad. Strong in FAISS and OpenSearch (68mo product ML); 90-day notice period is a concern.
-CAND_0076251,57,24.5193,7.6yr Search Engineer at Haptik. Strong in Hugging Face Transformers and Semantic Search (91mo product ML); no GitHub profile linked.
-CAND_0020877,58,24.4732,5.1yr Applied ML Engineer at CRED. Strong in Information Retrieval and Weaviate (60mo product ML).
-CAND_0054703,59,24.3351,6.8yr Computer Vision Engineer at Razorpay. Strong in NLP and Hugging Face Transformers (80mo product ML); no GitHub profile linked.
-CAND_0050454,60,24.1921,6.8yr AI Engineer at Rephrase.ai. Strong in Fine-tuning LLMs and FAISS (81mo product ML); no GitHub profile linked.
-CAND_0041610,61,24.1427,6.7yr Recommendation Systems Engineer at Zoho. Strong in Elasticsearch and OpenSearch (79mo product ML).
-CAND_0009024,62,24.0986,5.2yr Search Engineer at Google. Strong in OpenSearch and Recommendation Systems (61mo product ML).
-CAND_0061257,63,24.0986,8.0yr Staff Machine Learning Engineer at LinkedIn. Strong in Feature Engineering (95mo product ML).
-CAND_0061265,64,24.0825,6.6yr Recommendation Systems Engineer at Zoho. Strong in Qdrant and Hugging Face Transformers (78mo product ML); 120-day notice period is a concern.
-CAND_0087630,65,24.0651,7.2yr AI Engineer at Vedantu. Strong in Hugging Face Transformers and Sentence Transformers (85mo product ML).
-CAND_0089552,66,24.0570,6.0yr Machine Learning Engineer at Netflix. Strong in Vector Search and Fine-tuning LLMs (71mo product ML); 120-day notice period is a concern.
-CAND_0070525,67,24.0493,5.4yr Senior Software Engineer (ML) at Mad Street Den. Strong in Recommendation Systems and Feature Engineering (64mo product ML).
-CAND_0081053,68,24.0485,5.4yr NLP Engineer at Glance. Strong in Semantic Search and Weaviate (64mo product ML); 90-day notice period is a concern.
-CAND_0073883,69,23.9675,5.3yr AI Specialist at Krutrim. Strong in OpenSearch and Hugging Face Transformers (62mo product ML); 90-day notice period is a concern.
-CAND_0010770,70,23.9040,15.2yr Recommendation Systems Engineer at Aganitha. Strong in Qdrant and BM25 (86mo product ML); no GitHub profile linked.
-CAND_0007412,71,23.8458,7.4yr Applied ML Engineer at Zoho. Strong in Pinecone and Recommendation Systems (87mo product ML); 120-day notice period is a concern.
-CAND_0049978,72,23.8362,6.6yr Senior Software Engineer (ML) at Sarvam AI. Strong in Embeddings and Recommendation Systems (78mo product ML).
-CAND_0075249,73,23.5042,6.2yr Applied ML Engineer at Zomato. Strong in Fine-tuning LLMs and Pinecone (74mo product ML).
-CAND_0010685,74,23.4676,6.7yr NLP Engineer at Rephrase.ai. Strong in Elasticsearch and RAG (79mo product ML); no GitHub profile linked.
-CAND_0006557,75,23.4307,7.9yr NLP Engineer at Paytm. Strong in Vector Search and FAISS (94mo product ML); 120-day notice period is a concern.
-CAND_0043228,76,23.4282,6.8yr Applied ML Engineer at Zoho. Strong in Hugging Face Transformers and Sentence Transformers (80mo product ML).
-CAND_0018549,77,23.4172,6.8yr Recommendation Systems Engineer at Uber. Strong in Milvus and Qdrant (81mo product ML).
-CAND_0065786,78,23.3930,4.9yr AI Specialist at Swiggy. Strong in Pinecone and Qdrant (58mo product ML).
-CAND_0050876,79,23.3815,6.0yr Applied ML Engineer at Freshworks. Strong in Sentence Transformers and OpenSearch (71mo product ML); 90-day notice period is a concern.
-CAND_0052195,80,23.3165,6.3yr Computer Vision Engineer at Sarvam AI. Strong in Sentence Transformers and Information Retrieval (74mo product ML).
-CAND_0003609,81,23.1562,6.1yr Senior Software Engineer (ML) at Sarvam AI. Strong in Fine-tuning LLMs and BM25 (72mo product ML).
-CAND_0065195,82,23.1350,5.1yr Search Engineer at CRED. Strong in Qdrant and Elasticsearch (61mo product ML).
-CAND_0033987,83,23.0992,6.8yr ML Engineer at Wysa. Strong in Fine-tuning LLMs and Recommendation Systems (81mo product ML); 90-day notice period is a concern.
-CAND_0064331,84,23.0698,4.2yr Senior Software Engineer (ML) at Swiggy. Strong in OpenSearch and Sentence Transformers (49mo product ML); no GitHub profile linked.
-CAND_0001930,85,23.0274,6.9yr Senior Software Engineer (ML) at Dream11. Strong in Milvus and Embeddings (81mo product ML); 120-day notice period is a concern.
-CAND_0027801,86,23.0191,7.4yr NLP Engineer at InMobi. Strong in FAISS and Milvus (87mo product ML); 120-day notice period is a concern.
-CAND_0065878,87,23.0186,7.8yr Senior Data Scientist at Niramai. Strong in Recommendation Systems and RAG (92mo product ML); no GitHub profile linked.
-CAND_0082086,88,22.9013,6.0yr Senior Software Engineer (ML) at Razorpay. Strong in FAISS and Feature Engineering (71mo product ML).
-CAND_0044222,89,22.8554,7.7yr AI Engineer at PolicyBazaar. Strong in OpenSearch and Hugging Face Transformers (92mo product ML).
-CAND_0051630,90,22.8333,6.0yr Machine Learning Engineer at Razorpay. Strong in Information Retrieval and Elasticsearch (71mo product ML); 90-day notice period is a concern.
-CAND_0009691,91,22.7751,6.2yr Applied ML Engineer at LinkedIn. Strong in Fine-tuning LLMs and Qdrant (73mo product ML); 120-day notice period is a concern.
-CAND_0000422,92,22.7368,6.3yr AI Research Engineer at Haptik. Strong in Milvus and OpenSearch (75mo product ML); 90-day notice period is a concern.
-CAND_0092255,93,22.7296,5.2yr ML Engineer at InMobi. Strong in RAG and OpenSearch (48mo product ML).
-CAND_0082489,94,22.7038,5.3yr ML Engineer at InMobi. Strong in Weaviate and Feature Engineering (63mo product ML); 90-day notice period is a concern.
-CAND_0099401,95,22.6545,7.7yr NLP Engineer at Dream11. Strong in Semantic Search and Qdrant (90mo product ML); 90-day notice period is a concern.
-CAND_0074735,96,22.6200,5.5yr Applied ML Engineer at Rephrase.ai. Strong in Vector Search and RAG (65mo product ML); 90-day notice period is a concern.
-CAND_0060835,97,22.5743,6.6yr Senior Software Engineer (ML) at Sarvam AI. Strong in Embeddings and FAISS (79mo product ML); 90-day notice period is a concern.
-CAND_0037566,98,22.5548,6.9yr Machine Learning Engineer at LinkedIn. Strong in Pinecone and Elasticsearch (82mo product ML).
-CAND_0010149,99,22.5275,6.9yr ML Engineer at Glance. Strong in Milvus and Elasticsearch (69mo product ML); 90-day notice period is a concern.
-CAND_0060054,100,22.5234,6.4yr AI Engineer at Mad Street Den. Strong in Recommendation Systems and Semantic Search (76mo product ML); no GitHub profile linked.
+CAND_0018499,1,40.1418,Production FAISS work described at Zomato hits the vector-database must-have directly; 7.2 yrs overall with 86 mo inside product ML teams.
+CAND_0071974,2,39.4028,Production Pinecone work described at Netflix hits the vector-database must-have directly; 7.8 yrs overall with 92 mo inside product ML teams. Location fit for hybrid Pune/Noida needs a conversation.
+CAND_0002025,3,38.4352,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Senior AI Engineer with 5.9 yrs of experience. Location fit for hybrid Pune/Noida needs a conversation.
+CAND_0039754,4,38.3000,Production Pinecone work described at Meta hits the vector-database must-have directly; 16.2 yrs overall with 98 mo inside product ML teams.
+CAND_0046064,5,37.5951,Production Pinecone work described at Salesforce hits the vector-database must-have directly; 8.9 yrs overall with 106 mo inside product ML teams. Location fit for hybrid Pune/Noida needs a conversation.
+CAND_0079387,6,36.5038,Production Pinecone work described at Microsoft hits the vector-database must-have directly; 6.9 yrs overall with 81 mo inside product ML teams. Location fit for hybrid Pune/Noida needs a conversation.
+CAND_0088025,7,36.2351,Production Pinecone work described at Yellow.ai hits the vector-database must-have directly; 8.6 yrs overall with 102 mo inside product ML teams. Main friction: 90-day notice period.
+CAND_0094759,8,36.0115,Production FAISS work described at Meta hits the vector-database must-have directly; 8.6 yrs overall with 101 mo inside product ML teams.
+CAND_0081846,9,35.9235,Production FAISS work described at Razorpay hits the vector-database must-have directly; 6.7 yrs overall with 79 mo inside product ML teams.
+CAND_0080766,10,35.7969,Cites NDCG for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Staff Machine Learning Engineer with 8.8 yrs of experience.
+CAND_0052328,11,35.7479,Production Pinecone work described at Amazon hits the vector-database must-have directly; 6.5 yrs overall with 77 mo inside product ML teams.
+CAND_0010257,12,35.0381,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Senior Data Scientist with 6.5 yrs of experience. Main friction: 120-day notice period.
+CAND_0047721,13,34.9974,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Senior Data Scientist with 7.0 yrs of experience. Main friction: 90-day notice period.
+CAND_0027691,14,34.8635,Production FAISS work described at Haptik hits the vector-database must-have directly; 6.5 yrs overall with 76 mo inside product ML teams.
+CAND_0007009,15,34.5817,Production Pinecone work described at Wysa hits the vector-database must-have directly; 7.9 yrs overall with 94 mo inside product ML teams.
+CAND_0052682,16,34.5226,Production Pinecone work described at Aganitha hits the vector-database must-have directly; 6.6 yrs overall with 78 mo inside product ML teams. Location fit for hybrid Pune/Noida needs a conversation.
+CAND_0046525,17,34.3789,Production FAISS work described at Genpact AI hits the vector-database must-have directly; 6.1 yrs overall with 73 mo inside product ML teams.
+CAND_0044855,18,34.0451,Production Pinecone work described at Flipkart hits the vector-database must-have directly; 6.6 yrs overall with 78 mo inside product ML teams.
+CAND_0064326,19,33.4623,Production Pinecone work described at Sarvam AI hits the vector-database must-have directly; 7.6 yrs overall with 91 mo inside product ML teams.
+CAND_0028793,20,33.1528,Production Pinecone work described at Google hits the vector-database must-have directly; 7.2 yrs overall with 85 mo inside product ML teams. Main friction: 120-day notice period.
+CAND_0077337,21,33.1035,Cites NDCG for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Staff Machine Learning Engineer with 7.0 yrs of experience.
+CAND_0006567,22,32.9235,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Senior AI Engineer with 7.9 yrs of experience.
+CAND_0011687,23,32.7737,Production Pinecone work described at Niramai hits the vector-database must-have directly; 7.8 yrs overall with 92 mo inside product ML teams. Location fit for hybrid Pune/Noida needs a conversation.
+CAND_0060072,24,32.6364,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Staff Machine Learning Engineer with 5.7 yrs of experience. Main friction: 90-day notice period.
+CAND_0011432,25,32.6185,Production Pinecone work described at Amazon hits the vector-database must-have directly; 7.6 yrs overall with 90 mo inside product ML teams. Location fit for hybrid Pune/Noida needs a conversation.
+CAND_0008425,26,32.5674,Production Pinecone work described at Ola hits the vector-database must-have directly; 7.8 yrs overall with 92 mo inside product ML teams. Main friction: 90-day notice period.
+CAND_0042029,27,32.3138,Production Pinecone work described at Flipkart hits the vector-database must-have directly; 6.5 yrs overall with 78 mo inside product ML teams.
+CAND_0062247,28,31.7841,Production FAISS work described at Google hits the vector-database must-have directly; 7.3 yrs overall with 87 mo inside product ML teams.
+CAND_0017960,29,31.5795,Production Pinecone work described at Nykaa hits the vector-database must-have directly; 7.7 yrs overall with 91 mo inside product ML teams.
+CAND_0041669,30,31.3963,Production Pinecone work described at CRED hits the vector-database must-have directly; 8.0 yrs overall with 95 mo inside product ML teams.
+CAND_0087630,31,31.3608,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently AI Engineer with 7.2 yrs of experience.
+CAND_0074735,32,31.1540,Production Pinecone work described at Rephrase.ai hits the vector-database must-have directly; 5.5 yrs overall with 65 mo inside product ML teams. Main friction: 90-day notice period.
+CAND_0069905,33,31.1233,Production Pinecone work described at Sarvam AI hits the vector-database must-have directly; 6.6 yrs overall with 78 mo inside product ML teams. Main friction: 90-day notice period.
+CAND_0039383,34,30.9618,Production FAISS work described at Meesho hits the vector-database must-have directly; 7.1 yrs overall with 84 mo inside product ML teams. Main friction: 90-day notice period.
+CAND_0091909,35,30.7033,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Machine Learning Engineer with 6.9 yrs of experience.
+CAND_0086022,36,30.4295,Production FAISS work described at Sarvam AI hits the vector-database must-have directly; 5.3 yrs overall with 63 mo inside product ML teams.
+CAND_0098846,37,30.4226,Production Pinecone work described at upGrad hits the vector-database must-have directly; 7.6 yrs overall with 90 mo inside product ML teams.
+CAND_0096142,38,30.2358,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Applied ML Engineer with 5.0 yrs of experience. Main friction: 120-day notice period.
+CAND_0005649,39,30.1057,Production Pinecone work described at Sarvam AI hits the vector-database must-have directly; 7.4 yrs overall with 88 mo inside product ML teams. Main friction: 90-day notice period.
+CAND_0081053,40,30.0318,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently NLP Engineer with 5.4 yrs of experience. Main friction: 90-day notice period.
+CAND_0083307,41,30.0299,Production Pinecone work described at CRED hits the vector-database must-have directly; 7.8 yrs overall with 92 mo inside product ML teams. Main friction: 120-day notice period.
+CAND_0070398,42,29.8177,Production FAISS work described at Genpact AI hits the vector-database must-have directly; 7.2 yrs overall with 85 mo inside product ML teams. Main friction: 120-day notice period.
+CAND_0078002,43,29.7389,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Machine Learning Engineer with 6.3 yrs of experience. Location fit for hybrid Pune/Noida needs a conversation.
+CAND_0091534,44,29.7020,Production Pinecone work described at Flipkart hits the vector-database must-have directly; 16.6 yrs overall with 85 mo inside product ML teams.
+CAND_0007412,45,29.5205,Production Pinecone work described at Zoho hits the vector-database must-have directly; 7.4 yrs overall with 87 mo inside product ML teams. Main friction: 120-day notice period.
+CAND_0041610,46,29.5110,Production Pinecone work described at Zoho hits the vector-database must-have directly; 6.7 yrs overall with 79 mo inside product ML teams.
+CAND_0016163,47,29.5099,Production FAISS work described at Dream11 hits the vector-database must-have directly; 6.7 yrs overall with 79 mo inside product ML teams. Main friction: 120-day notice period.
+CAND_0009691,48,29.4738,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Applied ML Engineer with 6.2 yrs of experience. Main friction: 120-day notice period.
+CAND_0005538,49,29.3845,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Senior AI Engineer with 5.9 yrs of experience. Main friction: 90-day notice period.
+CAND_0068811,50,29.3287,Production Pinecone work described at Freshworks hits the vector-database must-have directly; 8.0 yrs overall with 95 mo inside product ML teams.
+CAND_0037566,51,29.3088,Production Pinecone work described at LinkedIn hits the vector-database must-have directly; 6.9 yrs overall with 82 mo inside product ML teams.
+CAND_0070525,52,29.2805,"Brings LLM-adaptation depth (LoRA/PEFT-style fine-tuning) on top of Recommendation Systems, covering both the retrieval and fine-tuning sides of the JD; 64 mo product ML."
+CAND_0030953,53,29.1626,Production Pinecone work described at Nykaa hits the vector-database must-have directly; 7.8 yrs overall with 92 mo inside product ML teams. Location fit for hybrid Pune/Noida needs a conversation.
+CAND_0061257,54,29.0069,"Brings LLM-adaptation depth (LoRA/PEFT-style fine-tuning) on top of Feature Engineering, covering both the retrieval and fine-tuning sides of the JD; 95 mo product ML."
+CAND_0064331,55,28.9153,"Brings LLM-adaptation depth (LoRA/PEFT-style fine-tuning) on top of OpenSearch, covering both the retrieval and fine-tuning sides of the JD; 49 mo product ML. No public GitHub to verify code externally."
+CAND_0050876,56,28.9123,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Applied ML Engineer with 6.0 yrs of experience. Main friction: 90-day notice period.
+CAND_0018549,57,28.7385,Cites A/B testing for ranking quality in shipped work — exactly the offline-evaluation rigor this role centers on. Currently Recommendation Systems Engineer with 6.8 yrs of experience.
+CAND_0081852,58,28.6997,Production Pinecone work described at Mad Street Den hits the vector-database must-have directly; 5.9 yrs overall with 70 mo inside product ML teams.
+CAND_0030784,59,28.4563,"Brings LLM-adaptation depth (LoRA/PEFT-style fine-tuning) on top of Embeddings, covering both the retrieval and fine-tuning sides of the JD; 52 mo product ML. Main friction: 90-day notice period."
+CAND_0082489,60,28.4332,"Brings LLM-adaptation depth (LoRA/PEFT-style fine-tuning) on top of Weaviate, covering both the retrieval and fine-tuning sides of the JD; 63 mo product ML. Main friction: 90-day notice period."
+CAND_0037980,61,28.2207,"Adjacent rather than exact fit: mentions A/B testing in past work but with thinner production-retrieval depth than the top of this list; 9.0 yrs total, 107 mo in product ML roles."
+CAND_0067643,62,28.1586,"Back-half pick — AI Research Engineer with a NLP foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 71 mo of product-company experience keeps them shortlist-worthy."
+CAND_0027801,63,28.1159,"Adjacent rather than exact fit: mentions FAISS in past work but with thinner production-retrieval depth than the top of this list; 7.4 yrs total, 87 mo in product ML roles. Main friction: 120-day notice period."
+CAND_0089552,64,27.9977,"Adjacent rather than exact fit: mentions Pinecone in past work but with thinner production-retrieval depth than the top of this list; 6.0 yrs total, 71 mo in product ML roles. Main friction: 120-day notice period."
+CAND_0010149,65,27.9920,"Back-half pick — ML Engineer with a Milvus foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 69 mo of product-company experience keeps them shortlist-worthy. Main friction: 90-day notice period."
+CAND_0087006,66,27.9402,"Back-half pick — Senior Software Engineer (ML) with a Information Retrieval foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 68 mo of product-company experience keeps them shortlist-worthy. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0096104,67,27.8169,"Back-half pick — AI Specialist with a Hugging Face Transformers foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 83 mo of product-company experience keeps them shortlist-worthy."
+CAND_0060835,68,27.7888,"Back-half pick — Senior Software Engineer (ML) with a Embeddings foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 79 mo of product-company experience keeps them shortlist-worthy. Main friction: 90-day notice period."
+CAND_0033861,69,27.7526,"Adjacent rather than exact fit: mentions NDCG in past work but with thinner production-retrieval depth than the top of this list; 8.0 yrs total, 95 mo in product ML roles. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0082086,70,27.7336,"Back-half pick — Senior Software Engineer (ML) with a FAISS foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 71 mo of product-company experience keeps them shortlist-worthy."
+CAND_0099401,71,27.6705,"Adjacent rather than exact fit: mentions A/B testing in past work but with thinner production-retrieval depth than the top of this list; 7.7 yrs total, 90 mo in product ML roles. Main friction: 90-day notice period."
+CAND_0005509,72,27.6382,"Back-half pick — Data Scientist with a Feature Engineering foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 70 mo of product-company experience keeps them shortlist-worthy."
+CAND_0093912,73,27.5953,"Adjacent rather than exact fit: mentions FAISS in past work but with thinner production-retrieval depth than the top of this list; 5.3 yrs total, 62 mo in product ML roles. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0012988,74,27.4903,"Back-half pick — Senior Software Engineer (ML) with a Hugging Face Transformers foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 51 mo of product-company experience keeps them shortlist-worthy."
+CAND_0073883,75,27.4491,"Back-half pick — AI Specialist with a OpenSearch foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 62 mo of product-company experience keeps them shortlist-worthy. Main friction: 90-day notice period."
+CAND_0093331,76,27.4305,"Adjacent rather than exact fit: mentions FAISS in past work but with thinner production-retrieval depth than the top of this list; 16.1 yrs total, 86 mo in product ML roles."
+CAND_0010541,77,27.2400,"Back-half pick — AI Research Engineer with a NLP foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 74 mo of product-company experience keeps them shortlist-worthy."
+CAND_0075249,78,27.2226,"Adjacent rather than exact fit: mentions FAISS in past work but with thinner production-retrieval depth than the top of this list; 6.2 yrs total, 74 mo in product ML roles. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0077285,79,27.2157,"Adjacent rather than exact fit: mentions Pinecone in past work but with thinner production-retrieval depth than the top of this list; 5.5 yrs total, 65 mo in product ML roles. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0092255,80,27.2025,"Back-half pick — ML Engineer with a RAG foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 48 mo of product-company experience keeps them shortlist-worthy."
+CAND_0015528,81,27.1940,"Adjacent rather than exact fit: mentions A/B testing in past work but with thinner production-retrieval depth than the top of this list; 7.4 yrs total, 87 mo in product ML roles. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0061265,82,27.1499,"Adjacent rather than exact fit: mentions FAISS in past work but with thinner production-retrieval depth than the top of this list; 6.6 yrs total, 78 mo in product ML roles. Main friction: 120-day notice period."
+CAND_0024147,83,27.0771,"Back-half pick — ML Engineer with a Feature Engineering foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 70 mo of product-company experience keeps them shortlist-worthy. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0035879,84,26.9282,"Back-half pick — AI Research Engineer with a BM25 foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 54 mo of product-company experience keeps them shortlist-worthy. Main friction: 120-day notice period."
+CAND_0043228,85,26.9127,"Adjacent rather than exact fit: mentions FAISS in past work but with thinner production-retrieval depth than the top of this list; 6.8 yrs total, 80 mo in product ML roles. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0016659,86,26.9065,"Back-half pick — ML Engineer with a Weaviate foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 52 mo of product-company experience keeps them shortlist-worthy. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0008239,87,26.8052,"Back-half pick — AI Engineer with a Milvus foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 48 mo of product-company experience keeps them shortlist-worthy."
+CAND_0095528,88,26.7239,"Adjacent rather than exact fit: mentions A/B testing in past work but with thinner production-retrieval depth than the top of this list; 5.3 yrs total, 63 mo in product ML roles. No public GitHub to verify code externally."
+CAND_0086151,89,26.6200,"Adjacent rather than exact fit: mentions FAISS in past work but with thinner production-retrieval depth than the top of this list; 7.7 yrs total, 91 mo in product ML roles. Main friction: 120-day notice period."
+CAND_0066999,90,26.5260,"Back-half pick — Recommendation Systems Engineer with a FAISS foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 70 mo of product-company experience keeps them shortlist-worthy."
+CAND_0073314,91,26.5097,"Back-half pick — Senior Software Engineer (ML) with a Feature Engineering foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 61 mo of product-company experience keeps them shortlist-worthy."
+CAND_0009024,92,26.4368,"Adjacent rather than exact fit: mentions A/B testing in past work but with thinner production-retrieval depth than the top of this list; 5.2 yrs total, 61 mo in product ML roles. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0041402,93,26.3543,"Back-half pick — AI Specialist with a RAG foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 75 mo of product-company experience keeps them shortlist-worthy. Location fit for hybrid Pune/Noida needs a conversation."
+CAND_0098952,94,26.3080,"Back-half pick — AI Research Engineer with a Recommendation Systems foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 65 mo of product-company experience keeps them shortlist-worthy."
+CAND_0083852,95,26.3059,"Back-half pick — Data Scientist with a Pinecone foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 71 mo of product-company experience keeps them shortlist-worthy. Main friction: 90-day notice period."
+CAND_0032216,96,26.3008,"Back-half pick — ML Engineer with a Information Retrieval foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 72 mo of product-company experience keeps them shortlist-worthy."
+CAND_0040178,97,26.2964,"Back-half pick — ML Engineer with a OpenSearch foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 59 mo of product-company experience keeps them shortlist-worthy."
+CAND_0086062,98,26.2908,"Back-half pick — ML Engineer with a Pinecone foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 48 mo of product-company experience keeps them shortlist-worthy. Main friction: 90-day notice period."
+CAND_0052195,99,26.2847,"Back-half pick — Computer Vision Engineer with a Sentence Transformers foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 74 mo of product-company experience keeps them shortlist-worthy."
+CAND_0003609,100,26.1907,"Back-half pick — Senior Software Engineer (ML) with a Fine-tuning LLMs foundation; embeddings/retrieval depth sits below the top-tier cutoff, though 72 mo of product-company experience keeps them shortlist-worthy. Location fit for hybrid Pune/Noida needs a conversation."
