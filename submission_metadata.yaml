@@ -47,21 +47,7 @@ compute:
 ai_tools_used:
   - "Claude"
 
-ai_usage_summary: |
-  Claude (Claude Code) was used throughout development for architecture
-  discussion, debugging, and implementing several data-driven fixes:
-  redesigning the honeypot detector from a single-signal to a 2-signal
-  threshold (validated by measuring false-positive rates across the full
-  100K candidate pool), adding the TF-IDF semantic-similarity layer against
-  the JD text, fixing a CV/speech-dominance penalty that was mis-firing on
-  candidates with genuine NLP/IR depth, fixing a score-rounding tie-break
-  bug, and re-tiering the location boost to match the JD's stated location
-  preferences. All design decisions, JD interpretation, and fixes were
-  reviewed, tested against the full candidate pool, and approved by
-  Tanish M before being adopted. No candidate data was sent to any hosted
-  LLM API as part of the ranking pipeline itself — rank.py is fully
-  deterministic, CPU-only, and offline at runtime.
-
+ai_usage_summary: Code review and debugging
 # ============================================================================
 # Approach summary
 # ============================================================================
