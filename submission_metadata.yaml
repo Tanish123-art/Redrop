@@ -45,7 +45,7 @@ compute:
 # AI tools declaration
 # ============================================================================
 ai_tools_used:
-  - "Claude"
+  - Claude,Deepseek
 
 ai_usage_summary: Code review and debugging
 # ============================================================================
